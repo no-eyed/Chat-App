@@ -1,0 +1,17 @@
+{
+  "name": "lchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "socket.io": "^4.6.1"
+  }
+}
